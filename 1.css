@@ -1,0 +1,22 @@
+#d1{
+    text-align: center;
+}
+input,button{
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+    display: none;
+}
+table tr td{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    font-size: 50px;
+    text-align: center;
+}
+.d2{
+    margin-top: 50px;
+    justify-content: center;
+    display: flex;
+}
